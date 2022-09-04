@@ -5,6 +5,7 @@
 load("um_goalmissing.rda")
 
 
+# variable “goalmissing”: “since the last measurement, how much did you miss being engaged in the goal in your everyday life?” (0 – 100)
 
 
 #########################################################################
